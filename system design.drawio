@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T13:48:13.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="d-5PN6ffPnNNeL7zrPQN" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T13:50:04.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mCmDF9J66bCQCWmQMHvI" version="21.3.2" type="github">
   <diagram name="Page-1" id="goW-xutGmIgGnAvLxzgP">
     <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rzrdu1us9HTBLImDNAjI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-1" target="rzrdu1us9HTBLImDNAjI-2">
+        <mxCell id="rzrdu1us9HTBLImDNAjI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-1" target="rzrdu1us9HTBLImDNAjI-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="85" y="154" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-1" value="User" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="30" height="42" as="geometry" />
+          <mxGeometry x="60" y="47" width="30" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-12" value="example.com" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-2" target="rzrdu1us9HTBLImDNAjI-11">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-46" value="User" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="709.9999999999999" y="40" width="30" height="42" as="geometry" />
+          <mxGeometry x="719.9999999999999" y="47" width="30" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-47" value="User" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="120" width="30" height="42" as="geometry" />
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-48" value="API Request" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="650" y="43" width="32.4" height="36" as="geometry" />
+          <mxGeometry x="660" y="50" width="32.4" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-55" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528.8" y="118" width="90" height="40" as="geometry" />
