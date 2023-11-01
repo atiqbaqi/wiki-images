@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T13:15:53.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EPEXEkBa-oOu-O9TgcSA" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T13:19:31.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EjapczfNWBOuPHQb5eIz" version="21.3.2" type="github">
   <diagram name="Page-1" id="goW-xutGmIgGnAvLxzgP">
     <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -57,6 +57,11 @@
         <mxCell id="rzrdu1us9HTBLImDNAjI-38" value="Auto Discovery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rzrdu1us9HTBLImDNAjI-37">
           <mxGeometry x="-0.7762" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzrdu1us9HTBLImDNAjI-52" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;54.234.43.12/api&lt;/i&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[80:5000]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rzrdu1us9HTBLImDNAjI-37">
+          <mxGeometry x="0.5098" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-17" value="Reverse&lt;br&gt;Proxy&lt;br&gt;(&lt;i&gt;Traefik &lt;/i&gt;Running&lt;br&gt;in &lt;br&gt;Docker Container)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.reverse_proxy;" vertex="1" parent="1">
