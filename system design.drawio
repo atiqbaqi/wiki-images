@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T13:41:43.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GNNoxnAcaSDBUzC4nmQz" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T13:47:34.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Lr5SheggtgFDGgKyFXu_" version="21.3.2" type="github">
   <diagram name="Page-1" id="goW-xutGmIgGnAvLxzgP">
     <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -6,23 +6,23 @@
         <mxCell id="1" parent="0" />
         <mxCell id="rzrdu1us9HTBLImDNAjI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-1" target="rzrdu1us9HTBLImDNAjI-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="164" as="sourcePoint" />
+            <mxPoint x="85" y="154" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-1" value="User" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="30" height="42" as="geometry" />
+          <mxGeometry x="70" y="40" width="30" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-12" value="example.com" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-2" target="rzrdu1us9HTBLImDNAjI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-2" value="Browser" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="32.4" height="36" as="geometry" />
+          <mxGeometry x="120" y="50" width="32.4" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147" y="270" width="533" height="580" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-11" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="128" width="90" height="40" as="geometry" />
+          <mxGeometry x="180" y="118" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-13" value="Public IP associated with EC2&lt;br&gt;e.g. &lt;i&gt;54.234.43.12&lt;/i&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-11" target="rzrdu1us9HTBLImDNAjI-6">
           <mxGeometry relative="1" as="geometry">
@@ -95,21 +95,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-46" value="User" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="127" width="30" height="42" as="geometry" />
+          <mxGeometry x="709.9999999999999" y="40" width="30" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-47" value="User" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="120" width="30" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-48" target="rzrdu1us9HTBLImDNAjI-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rzrdu1us9HTBLImDNAjI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-48" target="rzrdu1us9HTBLImDNAjI-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="148" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-51" value="example.com/api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rzrdu1us9HTBLImDNAjI-49">
           <mxGeometry x="-0.1689" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-48" value="API Call" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="32.4" height="36" as="geometry" />
+        <mxCell id="rzrdu1us9HTBLImDNAjI-48" value="API Request" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="43" width="32.4" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="rzrdu1us9HTBLImDNAjI-55" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528.8" y="118" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzrdu1us9HTBLImDNAjI-56" value="Public IP associated with EC2&lt;br&gt;e.g. &lt;i&gt;54.234.43.12/api&lt;/i&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="rzrdu1us9HTBLImDNAjI-55" parent="1" target="rzrdu1us9HTBLImDNAjI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="74" y="322" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
