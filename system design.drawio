@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T12:51:27.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ROtJO4sLqktEoebztT2C" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T12:55:03.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EQHyrzS9bILKEp5Fhe5F" version="21.3.2" type="github">
   <diagram name="Page-1" id="goW-xutGmIgGnAvLxzgP">
     <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -29,24 +29,24 @@
             <mxPoint x="320" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rzrdu1us9HTBLImDNAjI-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="170" y="360" width="480" height="310" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-7" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="40" height="68" as="geometry" />
+          <mxGeometry x="170" y="360" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="415" width="430" height="235" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-15" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="202.4" y="415" width="50" height="41" as="geometry" />
+          <mxGeometry x="211.20000000000002" y="424" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-17" target="rzrdu1us9HTBLImDNAjI-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="459.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-39" value="54.234.43.12:80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rzrdu1us9HTBLImDNAjI-36">
+        <mxCell id="rzrdu1us9HTBLImDNAjI-39" value="&lt;i&gt;54.234.43.12&lt;/i&gt;&lt;br&gt;[80:3000]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rzrdu1us9HTBLImDNAjI-36">
           <mxGeometry x="0.427" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -68,10 +68,10 @@
         <mxCell id="rzrdu1us9HTBLImDNAjI-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-9" target="rzrdu1us9HTBLImDNAjI-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-9" value="Frontend Service" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
+        <mxCell id="rzrdu1us9HTBLImDNAjI-9" value="Frontend Service&lt;br&gt;(Docker Container)" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
           <mxGeometry x="490" y="428" width="100" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-33" value="Backend Service" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
+        <mxCell id="rzrdu1us9HTBLImDNAjI-33" value="Backend Service&lt;br&gt;(Docker Container)" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
           <mxGeometry x="490" y="540" width="100" height="62" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-42" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
