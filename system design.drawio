@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T11:51:38.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yufW1QtSt54cvwqsODft" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T12:08:06.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QZF4A6nFL1ofdJeRzLwE" version="21.3.2" type="github">
   <diagram name="Page-1" id="goW-xutGmIgGnAvLxzgP">
     <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -19,10 +19,7 @@
           <mxGeometry x="220" y="130" width="32.4" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="270" width="533" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-7" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
-          <mxGeometry x="393.5" y="282" width="40" height="68" as="geometry" />
+          <mxGeometry x="147" y="270" width="533" height="490" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-11" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="128" width="90" height="40" as="geometry" />
@@ -35,17 +32,23 @@
             <mxPoint x="320" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-14" value="Cloud Service" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="180" y="270" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="350" width="480" height="260" as="geometry" />
+          <mxGeometry x="170" y="360" width="480" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="rzrdu1us9HTBLImDNAjI-7" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="40" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="rzrdu1us9HTBLImDNAjI-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="415" width="430" height="185" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-15" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="190" y="416" width="50" height="41" as="geometry" />
+          <mxGeometry x="202.4" y="415" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-17" value="Reverse&lt;br&gt;Proxy&lt;br&gt;(Traefik)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.reverse_proxy;" vertex="1" parent="1">
-          <mxGeometry x="290" y="384.5" width="41" height="53" as="geometry" />
+          <mxGeometry x="389.5" y="430" width="41" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="rzrdu1us9HTBLImDNAjI-32" value="Cloud Services" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
