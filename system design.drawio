@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T13:19:31.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EjapczfNWBOuPHQb5eIz" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T13:21:07.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OEIY5ZhAozpXxRhblFZ5" version="21.3.2" type="github">
   <diagram name="Page-1" id="goW-xutGmIgGnAvLxzgP">
     <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="rzrdu1us9HTBLImDNAjI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzrdu1us9HTBLImDNAjI-17" target="rzrdu1us9HTBLImDNAjI-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rzrdu1us9HTBLImDNAjI-38" value="Auto Discovery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rzrdu1us9HTBLImDNAjI-37">
+        <mxCell id="rzrdu1us9HTBLImDNAjI-38" value="Auto Discovery by path,&lt;br&gt;HTTPS using LE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rzrdu1us9HTBLImDNAjI-37">
           <mxGeometry x="-0.7762" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="1" as="offset" />
           </mxGeometry>
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-17" value="Reverse&lt;br&gt;Proxy&lt;br&gt;(&lt;i&gt;Traefik &lt;/i&gt;Running&lt;br&gt;in &lt;br&gt;Docker Container)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.reverse_proxy;" vertex="1" parent="1">
-          <mxGeometry x="240" y="494" width="42.9" height="46" as="geometry" />
+          <mxGeometry x="214.75" y="494" width="42.9" height="46" as="geometry" />
         </mxCell>
         <mxCell id="rzrdu1us9HTBLImDNAjI-32" value="Cloud Services" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="350" y="270" width="120" height="80" as="geometry" />
